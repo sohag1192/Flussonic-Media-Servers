@@ -1,6 +1,7 @@
 # 🚀 Installing Flussonic Media Server  
 ## How to Install Flussonic Streaming Server  ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsohag1192%2FFlussonic-Media-Server&label=&icon=github&color=%23198754&message=&style=flat&tz=localtime)
 
+- 💬 Join our [Telegram Group](https://t.me/+uQucOgx51IMzM2E1) for support and updates  
 ---
 
 <p align="center">

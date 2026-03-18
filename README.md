@@ -63,7 +63,7 @@ http://localhost
 ```
 
 <p align="center">
-  <img src="https://flussonic.com/doc/img/admin3/start_page.png" alt="Flussonic Start Page" width="600"/>
+  <img src="https://flussonic.com/doc/start_page.png" alt="Flussonic Start Page" width="600"/>
 </p>
 
 ---

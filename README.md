@@ -63,7 +63,7 @@ http://localhost
 ```
 
 <p align="center">
-  <img src="https://flussonic.com/doc/start_page.png" alt="Flussonic Start Page" width="600"/>
+  <img src="Screenshot_4.png" alt="Flussonic Start Page" width="600"/>
 </p>
 
 ---
@@ -178,8 +178,6 @@ Our Group:
 
 ## ⭐ Star History & Popularity
 ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sohag1192/Flussonic-Media-Servers&type=Date)](https://www.star-history.com/#sohag1192/Flussonic-Media-Server&Date)
 
 
 <a target="_blank" href="https://smallcounter.com/conline/1737616389/"><img alt="visitors by country counter" border="0" src="https://smallcounter.com/online/fcc.php?id=1737616389"></a>

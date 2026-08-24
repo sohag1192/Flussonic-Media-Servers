@@ -6,7 +6,7 @@ REM Repo: Flussonic-Media-Server
 REM Local Directory: C:\Users\Md Sohag Rana\Downloads\Flussonic-Media-Server-main
 
 :: === CONFIGURATION ===
-set "LOCAL_DIR=C:\Users\Md Sohag Rana\Downloads\Flussonic-Media-Server-main"
+set "LOCAL_DIR=D:\My_Project\Flussonic-Media-Servers"
 set "REPO_URL=https://github.com/sohag1192/Flussonic-Media-Servers.git"
 set "USER_NAME=sohag1192"
 set "USER_EMAIL=sohag1192@gmail.com"

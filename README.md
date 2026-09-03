@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Sohag1192/Flussonic-Media-Server">
+  <a href="https://github.com/Sohag1192/Flussonic-Media-Servers">
     <img src="https://img.shields.io/badge/Support%20by%20Starring-⭐%20Click%20Here-blue?style=for-the-badge" alt="Support by Starring" />
   </a>
 </p>
